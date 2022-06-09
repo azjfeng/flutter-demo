@@ -100,8 +100,6 @@ class MyApp extends StatelessWidget {
             children: [
               Image.network(
                 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2F1114%2F113020142315%2F201130142315-1-1200.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657292546&t=126ecc03f5edd6017061dcd8c1b5ac4d',
-                // width: 600,
-                // height: 200,
                 fit: BoxFit.cover,
               ),
               titleSection,
